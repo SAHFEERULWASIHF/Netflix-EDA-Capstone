@@ -42,3 +42,28 @@ This project explores the Netflix Movies and TV Shows dataset using Python. It i
 
 📧 wasihfwork@gmail.com  
 📎 [LinkedIn](www.linkedin.com/in/sahfeerul-wasihf)  
+
+
+## 📊 Visualizations
+
+### 📅 Seasonal Trend (Month-wise)
+![Seasonal Trend Monthwise](visuals/Seasonal%20trend%20monthwise.png)
+
+### 📆 Weekly Trend (Day-wise)
+![Weekly Trend Daywise](visuals/Weekly%20trend%20daywise.png)
+
+### 🎬 Movies vs Series
+![Movies vs Series](visuals/Movies%20vs%20Series.png)
+
+### 🗓️ Content Added Yearly (by Type)
+![Content Added yearly with type](visuals/Content%20Added%20yearly%20with%20type.png)
+
+### 🧓 Content Age Distribution
+![Content Age Distribution](visuals/Content%20age%20distribution.png)
+
+### 🌍 Top Content Producing Countries
+![Top Content Producing Countries](visuals/Top%20content%20producing%20Countries.png)
+
+### 🏆 Top 10 Categories
+![Top 10 Categories](visuals/Top%2010%20Categories.png)
+
